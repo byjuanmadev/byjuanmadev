@@ -25,7 +25,7 @@
 
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanmaMesMal&theme=dark&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=byjuanmadev&theme=dark&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## Programming Languages
 
@@ -45,8 +45,8 @@
 <p>
     <a href="https://www.linkedin.com/in/juanmamesmal2003/"><img alt="Linkedin" title="Juanma Mesa Malagón Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://instagram.com/whoisblanco_"><img alt="Instagram" title="Juanma Mesa Malagón Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:juanmamesmal2003@gmail.com"><img alt="Gmail" title="Juanma Mesa Malagón Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://github.com/JuanmaMesMal"><img alt="Github" title="Juanma Mesa Malagón Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="mailto:byjuaanma.dev@gmail.com"><img alt="Gmail" title="Juanma Mesa Malagón Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/byjuanmadev"><img alt="Github" title="Juanma Mesa Malagón Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
